@@ -1,0 +1,1083 @@
+********* /sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/uevent:MODALIAS=acpi:WACF2200:PNP0C50:
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/power_state:D0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/event_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/max_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/wakeup_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/total_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/expire_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/active_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/last_change_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/prevent_suspend_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/relax_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/name:WACF2200:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/wakeup/wakeup44/active_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/uid:1
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/hid:WACF2200
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/path:\_SB_.I2CC.TPNL
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/status:15
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:02/WACF2200:00/modalias:acpi:WACF2200:PNP0C50:
+
+********* /sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/uevent:MODALIAS=acpi:ELAN06FA:PNP0C50:
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/power_state:D0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/event_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/max_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/wakeup_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/total_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/expire_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/active_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/last_change_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/prevent_suspend_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/relax_count:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/name:ELAN06FA:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/wakeup/wakeup46/active_time_ms:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/uid:5
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/hid:ELAN06FA
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/path:\_SB_.I2CD.TPD0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/status:15
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/ELAN06FA:00/modalias:acpi:ELAN06FA:PNP0C50:
+
+********* /sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/uevent:MODALIAS=
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/uid:5
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/hid:GXTP5100
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/path:\_SB_.I2CD.TPD3
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/AMDI0010:03/GXTP5100:00/status:0
+
+********* /sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/uevent:DRIVER=tpm_crb
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/uevent:MODALIAS=acpi:MSFT0101:MSFT0101:
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/description:TPM 2.0 Device
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/uevent:MAJOR=252
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/uevent:MINOR=65536
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/uevent:DEVNAME=tpmrm0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpmrm/tpmrm0/dev:252:65536
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/hid:MSFT0101
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/path:\_SB_.TPM2
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/status:15
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/modalias:acpi:MSFT0101:MSFT0101:
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/uevent:MAJOR=10
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/uevent:MINOR=224
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/uevent:DEVNAME=tpm0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/null_name:000b6f14926d7d0190719bdf842517e6a3fa55da88a1b26dcb69c53819aca18db574
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/dev:10:224
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:0 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:1 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:2 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:3 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:4 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:5 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:6 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:7 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:8 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:9 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:10 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:11 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:12 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:13 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:14 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:15 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:16 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:17 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:18 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:19 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:20 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:21 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:22 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:23 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:24 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:25 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:26 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:27 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:28 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:29 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:30 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:31 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:32 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:33 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:34 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:35 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:36 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:37 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:38 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:39 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:40 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:41 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:42 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:43 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:44 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:45 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:46 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:47 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:48 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:49 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:50 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:51 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:52 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:53 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:54 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:55 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:56 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:57 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:58 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:59 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:60 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:61 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:62 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:63 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:64 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:65 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:66 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:67 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:68 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:69 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:70 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:71 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:72 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:73 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:74 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:75 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:76 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:77 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:78 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:79 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:80 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:81 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:82 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:83 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:84 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:85 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:86 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:87 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:88 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:89 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:90 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:91 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:92 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:93 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:94 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:95 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:96 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:97 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:98 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:99 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:100 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/tcg_operations:101 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:128 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:129 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:130 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:131 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:132 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:133 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:134 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:135 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:136 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:137 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:138 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:139 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:140 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:141 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:142 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:143 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:144 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:145 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:146 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:147 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:148 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:149 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:150 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:151 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:152 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:153 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:154 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:155 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:156 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:157 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:158 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:159 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:160 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:161 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:162 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:163 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:164 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:165 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:166 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:167 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:168 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:169 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:170 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:171 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:172 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:173 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:174 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:175 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:176 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:177 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:178 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:179 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:180 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:181 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:182 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:183 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:184 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:185 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:186 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:187 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:188 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:189 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:190 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:191 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:192 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:193 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:194 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:195 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:196 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:197 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:198 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:199 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:200 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:201 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:202 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:203 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:204 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:205 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:206 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:207 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:208 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:209 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:210 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:211 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:212 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:213 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:214 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:215 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:216 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:217 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:218 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:219 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:220 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:221 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:222 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:223 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:224 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:225 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:226 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:227 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:228 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:229 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:230 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:231 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:232 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:233 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:234 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:235 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:236 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:237 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:238 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:239 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:240 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:241 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:242 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:243 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:244 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:245 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:246 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:247 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:248 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:249 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:250 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:251 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:252 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:253 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:254 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/vs_operations:255 4: User not required
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/response:22 0: Success
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/request:255
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/version:1.3
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/ppi/transition_action:2: Reboot
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/tpm_version_major:2
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/17:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/7:0500F38BB1815C66978CCC0A63356DE19835C5B03418E0A67D521ED52F57E43051886DE098555FFC15E6929BB41793C6
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/15:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/5:286B45D38C781865940AD2C9C74FE0373019D159EED5ADBD1F88BC33796F64EB66929939EB4CD7C8C7578EEF3243891D
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/23:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/13:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/3:518923B0F955D08DA077C96AABA522B9DECEDE61C599CEA6C41889CFBEA4AE4D50529D96FE4D1AFDAFB65E7F95BF23C4
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/21:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/11:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/1:103C78331531E90BC4A8194C173E08040D18B0ED2953791A9FCE9A4AD973E3730F0649B91243B43FD1DAB1324CE2F588
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/18:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/8:B28C68EDCF81792B12122625371256939C9D82AB71F20A38C9A190C34286FE7686B1D6086D15353E62F70DF6FBFEF830
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/16:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/6:518923B0F955D08DA077C96AABA522B9DECEDE61C599CEA6C41889CFBEA4AE4D50529D96FE4D1AFDAFB65E7F95BF23C4
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/14:09F9DB38CFACCFF9A1B4AE1AF68633505876FB0DEA3FCBCB8F9FB0D133334EFDC2CE2189384D6B37636EC827932F31FF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/4:14B36CC7BF2B973F398499F08F402201B33F3CC7F5C70F9A1FE379F6E5F7106F2DA4D10CC83EA2FB2232F3FD4715F76D
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/22:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/12:000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/2:8E3ED4EB5DB58250A763B52545AD024112E45FEE4E5AC7B150CA9E984C26010087A433DB3D40F46F7907FB8AA64260B2
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/20:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/10:EF9884BE69F9FF3C0547CE5CD66D398BCEDA48D6973FAE4E45FE1C1D4A9B8C96B6BF2570E7398DBF85DEE296B79D3BE3
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/0:41D89530EEB318A0893F992F2FA4DCDB1D2F43B25D4DCCAE68F9633276C48E96AE82D2954A52B529D60CA942A3DA9104
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/19:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha384/9:6D1098270AF011731D4D18562C57BE0E049534D21D04AF3C94F6657C82FA78C88A5DBC3E85859149CBC5DE7DA08246C8
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/17:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/7:4B9A880E04B46E7B7A5C0B7A0BD08A2ACFD150B6590B51012789E06E37053529
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/15:0000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/5:F386ADE6702D53D468624189D7B08CF5D1C59D30B533E87967BA136226DFD516
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/23:0000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/13:0000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/3:3D458CFE55CC03EA1F443F1562BEEC8DF51C75E14A9FCF9A7234A13F198E7969
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/21:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/11:0000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/1:202A49775C222B0BDFA98FB15C94600370422BEC42D5113760447C9F5321BC5F
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/18:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/8:5D0D5B312EFE0FE2898E6F30F34F08982B1DFC92F6D7A93AB5F12642D25A3385
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/16:0000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/6:3D458CFE55CC03EA1F443F1562BEEC8DF51C75E14A9FCF9A7234A13F198E7969
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/14:17CDEFD9548F4383B67A37A901673BF3C8DED6F619D36C8007562DE1D93C81CC
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/4:4429D5249CB88AFB7971CDC1AAE2A417352801A9AD794228CBC6DE495A369D59
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/22:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/12:0000000000000000000000000000000000000000000000000000000000000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/2:ECA25D5C7E015413EC4D087D658B64737A508513CCC6A48851F1736D23EC4138
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/20:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/10:1B54A4BBC0E6B850C698F76A4EBAA4CE13442B3748E7CF3A7F0D8E65D0757584
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/0:201AB89A9BE9AEA5F0A12A9DE9131A1A502F13C434AB79B5B02E959B173DF6C4
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/19:FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0101:00/tpm/tpm0/pcr-sha256/9:10C661811512D1DF32E70D380C78D74FD250F864535C7BE96ED3A936E3AC4E16
+
+********* /sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/uevent:MODALIAS=acpi:MSFT0201:
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/description:Microsoft Pluton security processor
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/power/runtime_active_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/power/runtime_status:unsupported
+grep: /sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/power/runtime_suspended_time:0
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/power/control:auto
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/uid:1
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/adr:0x00000000
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/hid:MSFT0201
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/path:\_SB_.MHSP
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/status:15
+/sys/devices/LNXSYSTM:00/LNXSYBUS:00/MSFT0201:00/modalias:acpi:MSFT0201:
+
+********* /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/uevent:DRIVER=i2c_hid_acpi
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/uevent:MODALIAS=acpi:WACF2200:PNP0C50:
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/event_count:73972
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/max_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/wakeup_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/total_time_ms:13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/expire_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/active_count:73972
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/last_change_ms:3027461
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/prevent_suspend_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/relax_count:73972
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/name:i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/wakeup/wakeup43/active_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup:enabled
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_abort_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_expire_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_total_time_ms:13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_active_count:73972
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_max_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_active:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/power/wakeup_last_time_ms:3027461
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:DRIVER=wacom
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_ID=0018:0000056A:000053FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_NAME=WACF2200:00 056A:53FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_PHYS=i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_UNIQ=
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:MODALIAS=hid:b0018g0101v0000056Ap000053FD
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/report_descriptor: binary file matches
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:DEVTYPE=power_supply
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_NAME=wacom_battery_0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_TYPE=Battery
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_STATUS=Unknown
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_PRESENT=1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_CAPACITY=100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_TYPE=Battery
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_SCOPE=Device
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_MODEL_NAME=Wacom HID 53FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/present:1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup:enabled
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_abort_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_expire_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_total_time_ms:2260
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_active_count:273
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_max_time_ms:22
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_active:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_last_time_ms:3027468
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/event_count:370
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/max_time_ms:22
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/wakeup_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/total_time_ms:2260
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/expire_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/active_count:273
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/last_change_ms:3027468
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/prevent_suspend_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/relax_count:273
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/name:wacom_battery_0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/active_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/type:Battery
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/name:wacom_battery_0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/capacity:100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/scope:Device
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/status:Unknown
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/model_name:Wacom HID 53FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:PRODUCT=18/56a/53fd/100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:NAME="Wacom HID 53FD Finger"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:PHYS="i2c-WACF2200:00"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:PROP=2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:EV=1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:KEY=400 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:ABS=260800000000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:MSC=20
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:MODALIAS=input:b0018v056Ap53FDe0100-e0,1,3,4,k14A,ra0,1,2F,35,36,39,m5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/uevent:MINOR=71
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/uevent:DEVNAME=input/event7
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/dev:13:71
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/rel:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/abs:260800000000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/ff:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/led:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/sw:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/key:400 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/msc:20
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/snd:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/ev:1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uniq:
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/inhibited:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/properties:2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/bustype:0018
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/vendor:056a
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/product:53fd
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/version:0100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/uevent:MINOR=34
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/uevent:DEVNAME=input/mouse2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/dev:13:34
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/phys:i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/name:Wacom HID 53FD Finger
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/modalias:input:b0018v056Ap53FDe0100-e0,1,3,4,k14A,ra0,1,2F,35,36,39,m5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:PRODUCT=18/56a/53fd/100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:NAME="Wacom HID 53FD Pen"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:PHYS="i2c-WACF2200:00"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:PROP=2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:EV=1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:KEY=1c03 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:ABS=1000d000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:MSC=21
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:MODALIAS=input:b0018v056Ap53FDe0100-e0,1,3,4,k140,141,14A,14B,14C,ra0,1,18,1A,1B,28,m0,5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/rel:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/abs:1000d000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/ff:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/led:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/sw:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/key:1c03 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/msc:21
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/snd:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/ev:1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uniq:
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/inhibited:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/properties:2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/bustype:0018
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/vendor:056a
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/product:53fd
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/version:0100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/phys:i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/uevent:MINOR=70
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/uevent:DEVNAME=input/event6
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/dev:13:70
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/uevent:MINOR=33
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/uevent:DEVNAME=input/mouse1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/dev:13:33
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/name:Wacom HID 53FD Pen
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/modalias:input:b0018v056Ap53FDe0100-e0,1,3,4,k140,141,14A,14B,14C,ra0,1,18,1A,1B,28,m0,5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/uevent:MAJOR=241
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/uevent:MINOR=1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/uevent:DEVNAME=hidraw1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/dev:241:1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/country:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/modalias:hid:b0018g0101v0000056Ap000053FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/name:WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/modalias:acpi:WACF2200:PNP0C50:
+
+********* /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:DRIVER=wacom
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_ID=0018:0000056A:000053FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_NAME=WACF2200:00 056A:53FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_PHYS=i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:HID_UNIQ=
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/uevent:MODALIAS=hid:b0018g0101v0000056Ap000053FD
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/report_descriptor: binary file matches
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:DEVTYPE=power_supply
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_NAME=wacom_battery_0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_TYPE=Battery
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_STATUS=Unknown
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_PRESENT=1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_CAPACITY=100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_TYPE=Battery
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_SCOPE=Device
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/uevent:POWER_SUPPLY_MODEL_NAME=Wacom HID 53FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/present:1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup:enabled
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_abort_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_expire_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_total_time_ms:2260
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_active_count:273
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_max_time_ms:22
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_active:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/power/wakeup_last_time_ms:3027468
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/event_count:370
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/max_time_ms:22
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/wakeup_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/total_time_ms:2260
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/expire_count:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/active_count:273
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/last_change_ms:3027468
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/prevent_suspend_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/relax_count:273
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/name:wacom_battery_0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/wakeup59/active_time_ms:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/type:Battery
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/hwmon9/name:wacom_battery_0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/capacity:100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/scope:Device
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/status:Unknown
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/power_supply/wacom_battery_0/model_name:Wacom HID 53FD
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:PRODUCT=18/56a/53fd/100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:NAME="Wacom HID 53FD Finger"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:PHYS="i2c-WACF2200:00"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:PROP=2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:EV=1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:KEY=400 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:ABS=260800000000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:MSC=20
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uevent:MODALIAS=input:b0018v056Ap53FDe0100-e0,1,3,4,k14A,ra0,1,2F,35,36,39,m5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/uevent:MINOR=71
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/uevent:DEVNAME=input/event7
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/event7/dev:13:71
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/rel:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/abs:260800000000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/ff:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/led:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/sw:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/key:400 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/msc:20
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/snd:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/capabilities/ev:1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/uniq:
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/inhibited:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/properties:2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/bustype:0018
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/vendor:056a
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/product:53fd
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/id/version:0100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/uevent:MINOR=34
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/uevent:DEVNAME=input/mouse2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/mouse2/dev:13:34
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/phys:i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/name:Wacom HID 53FD Finger
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input17/modalias:input:b0018v056Ap53FDe0100-e0,1,3,4,k14A,ra0,1,2F,35,36,39,m5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:PRODUCT=18/56a/53fd/100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:NAME="Wacom HID 53FD Pen"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:PHYS="i2c-WACF2200:00"
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:PROP=2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:EV=1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:KEY=1c03 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:ABS=1000d000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:MSC=21
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uevent:MODALIAS=input:b0018v056Ap53FDe0100-e0,1,3,4,k140,141,14A,14B,14C,ra0,1,18,1A,1B,28,m0,5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/rel:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/abs:1000d000003
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/ff:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/led:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/sw:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/key:1c03 0 0 0 0 0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/msc:21
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/snd:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/capabilities/ev:1b
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/uniq:
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/inhibited:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/properties:2
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/bustype:0018
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/vendor:056a
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/product:53fd
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/id/version:0100
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/phys:i2c-WACF2200:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/uevent:MINOR=70
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/uevent:DEVNAME=input/event6
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/event6/dev:13:70
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/uevent:MINOR=33
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/uevent:DEVNAME=input/mouse1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/mouse1/dev:13:33
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/name:Wacom HID 53FD Pen
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/input/input16/modalias:input:b0018v056Ap53FDe0100-e0,1,3,4,k140,141,14A,14B,14C,ra0,1,18,1A,1B,28,m0,5,lsfw
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/uevent:MAJOR=241
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/uevent:MINOR=1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/uevent:DEVNAME=hidraw1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/power/control:auto
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/hidraw/hidraw1/dev:241:1
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/country:00
+/sys/devices/platform/AMDI0010:02/i2c-0/i2c-WACF2200:00/0018:056A:53FD.0003/modalias:hid:b0018g0101v0000056Ap000053FD
+
+********* /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/uevent:DRIVER=i2c_hid_acpi
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/uevent:MODALIAS=acpi:ELAN06FA:PNP0C50:
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/event_count:193897
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/max_time_ms:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/wakeup_count:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/total_time_ms:58
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/expire_count:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/active_count:193897
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/last_change_ms:3548407
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/prevent_suspend_time_ms:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/relax_count:193897
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/name:i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/wakeup/wakeup45/active_time_ms:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup:enabled
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_count:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_abort_count:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_expire_count:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_total_time_ms:58
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_active_count:193897
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_max_time_ms:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_active:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/power/wakeup_last_time_ms:3548407
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:DRIVER=hid-multitouch
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_ID=0018:000004F3:0000327E
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_NAME=ELAN06FA:00 04F3:327E
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_PHYS=i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_UNIQ=
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:MODALIAS=hid:b0018g0004v000004F3p0000327E
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/report_descriptor: binary file matches
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:PRODUCT=18/4f3/327e/100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:NAME="ELAN06FA:00 04F3:327E Touchpad"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:PHYS="i2c-ELAN06FA:00"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:PROP=5
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:EV=1b
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:KEY=e520 10000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:ABS=2e0800000000003
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:MSC=20
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:MODALIAS=input:b0018v04F3p327Ee0100-e0,1,3,4,k110,145,148,14A,14D,14E,14F,ra0,1,2F,35,36,37,39,m5,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/rel:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/abs:2e0800000000003
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/ff:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/led:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/sw:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/key:e520 10000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/msc:20
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/snd:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/ev:1b
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/uevent:MINOR=69
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/uevent:DEVNAME=input/event5
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/dev:13:69
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/uevent:MINOR=36
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/uevent:DEVNAME=input/mouse4
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/dev:13:36
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uniq:
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/inhibited:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/properties:5
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/bustype:0018
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/vendor:04f3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/product:327e
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/version:0100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/phys:i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/name:ELAN06FA:00 04F3:327E Touchpad
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/modalias:input:b0018v04F3p327Ee0100-e0,1,3,4,k110,145,148,14A,14D,14E,14F,ra0,1,2F,35,36,37,39,m5,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:PRODUCT=18/4f3/327e/100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:NAME="ELAN06FA:00 04F3:327E Mouse"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:PHYS="i2c-ELAN06FA:00"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:PROP=0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:EV=17
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:KEY=30000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:REL=3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:MSC=10
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:MODALIAS=input:b0018v04F3p327Ee0100-e0,1,2,4,k110,111,r0,1,am4,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/rel:3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/abs:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/ff:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/led:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/sw:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/key:30000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/msc:10
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/snd:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/ev:17
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uniq:
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/inhibited:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/properties:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/bustype:0018
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/vendor:04f3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/product:327e
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/version:0100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/uevent:MINOR=32
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/uevent:DEVNAME=input/mouse0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/dev:13:32
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/phys:i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/uevent:MINOR=68
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/uevent:DEVNAME=input/event4
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/dev:13:68
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/name:ELAN06FA:00 04F3:327E Mouse
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/modalias:input:b0018v04F3p327Ee0100-e0,1,2,4,k110,111,r0,1,am4,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/uevent:MAJOR=241
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/uevent:MINOR=2
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/uevent:DEVNAME=hidraw2
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/dev:241:2
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/country:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/quirks:334864
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/modalias:hid:b0018g0004v000004F3p0000327E
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/name:ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/modalias:acpi:ELAN06FA:PNP0C50:
+
+********* /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:DRIVER=hid-multitouch
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_ID=0018:000004F3:0000327E
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_NAME=ELAN06FA:00 04F3:327E
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_PHYS=i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:HID_UNIQ=
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/uevent:MODALIAS=hid:b0018g0004v000004F3p0000327E
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/report_descriptor: binary file matches
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:PRODUCT=18/4f3/327e/100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:NAME="ELAN06FA:00 04F3:327E Touchpad"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:PHYS="i2c-ELAN06FA:00"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:PROP=5
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:EV=1b
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:KEY=e520 10000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:ABS=2e0800000000003
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:MSC=20
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uevent:MODALIAS=input:b0018v04F3p327Ee0100-e0,1,3,4,k110,145,148,14A,14D,14E,14F,ra0,1,2F,35,36,37,39,m5,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/rel:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/abs:2e0800000000003
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/ff:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/led:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/sw:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/key:e520 10000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/msc:20
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/snd:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/capabilities/ev:1b
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/uevent:MINOR=69
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/uevent:DEVNAME=input/event5
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/event5/dev:13:69
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/uevent:MINOR=36
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/uevent:DEVNAME=input/mouse4
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/mouse4/dev:13:36
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/uniq:
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/inhibited:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/properties:5
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/bustype:0018
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/vendor:04f3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/product:327e
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/id/version:0100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/phys:i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/name:ELAN06FA:00 04F3:327E Touchpad
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input15/modalias:input:b0018v04F3p327Ee0100-e0,1,3,4,k110,145,148,14A,14D,14E,14F,ra0,1,2F,35,36,37,39,m5,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:PRODUCT=18/4f3/327e/100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:NAME="ELAN06FA:00 04F3:327E Mouse"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:PHYS="i2c-ELAN06FA:00"
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:UNIQ=""
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:PROP=0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:EV=17
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:KEY=30000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:REL=3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:MSC=10
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uevent:MODALIAS=input:b0018v04F3p327Ee0100-e0,1,2,4,k110,111,r0,1,am4,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/rel:3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/abs:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/ff:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/led:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/sw:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/key:30000 0 0 0 0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/msc:10
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/snd:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/capabilities/ev:17
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/uniq:
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/inhibited:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/properties:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/bustype:0018
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/vendor:04f3
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/product:327e
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/id/version:0100
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/uevent:MINOR=32
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/uevent:DEVNAME=input/mouse0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/mouse0/dev:13:32
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/phys:i2c-ELAN06FA:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/uevent:MAJOR=13
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/uevent:MINOR=68
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/uevent:DEVNAME=input/event4
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/event4/dev:13:68
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/name:ELAN06FA:00 04F3:327E Mouse
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/input/input13/modalias:input:b0018v04F3p327Ee0100-e0,1,2,4,k110,111,r0,1,am4,lsfw
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/uevent:MAJOR=241
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/uevent:MINOR=2
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/uevent:DEVNAME=hidraw2
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/runtime_active_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/runtime_status:unsupported
+grep: /sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/runtime_suspended_time:0
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/power/control:auto
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/hidraw/hidraw2/dev:241:2
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/country:00
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/quirks:334864
+/sys/devices/platform/AMDI0010:03/i2c-1/i2c-ELAN06FA:00/0018:04F3:327E.0002/modalias:hid:b0018g0004v000004F3p0000327E
+
+********* /sys/devices/platform/MSFT0101:00
+/sys/devices/platform/MSFT0101:00/uevent:MODALIAS=acpi:MSFT0101:MSFT0101:
+/sys/devices/platform/MSFT0101:00/power/runtime_active_time:0
+/sys/devices/platform/MSFT0101:00/power/runtime_status:unsupported
+grep: /sys/devices/platform/MSFT0101:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/MSFT0101:00/power/runtime_suspended_time:0
+/sys/devices/platform/MSFT0101:00/power/control:auto
+/sys/devices/platform/MSFT0101:00/driver_override:(null)
+/sys/devices/platform/MSFT0101:00/waiting_for_supplier:0
+/sys/devices/platform/MSFT0101:00/modalias:acpi:MSFT0101:MSFT0101:
+
+********* /sys/devices/platform/MSFT0201:00
+/sys/devices/platform/MSFT0201:00/uevent:MODALIAS=acpi:MSFT0201:
+/sys/devices/platform/MSFT0201:00/power/runtime_active_time:0
+/sys/devices/platform/MSFT0201:00/power/runtime_status:unsupported
+grep: /sys/devices/platform/MSFT0201:00/power/autosuspend_delay_ms: Input/output error
+/sys/devices/platform/MSFT0201:00/power/runtime_suspended_time:0
+/sys/devices/platform/MSFT0201:00/power/control:auto
+/sys/devices/platform/MSFT0201:00/driver_override:(null)
+/sys/devices/platform/MSFT0201:00/waiting_for_supplier:0
+/sys/devices/platform/MSFT0201:00/modalias:acpi:MSFT0201:
+

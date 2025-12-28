@@ -1,0 +1,230 @@
+devices:
+  - name: 'Lenovo Wacom 53FD'
+    bus: 'i2c'
+    vid: 0x056a
+    pid: 0x53fd
+    nodes: 
+      - /dev/input/event6: 'Wacom HID 53FD Pen'
+    styli:
+      - id: 0x1
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x11
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x19
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x21
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x31
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x39
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x49
+        vid: 0x056a
+        name: 'Bamboo Ink'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x71
+        vid: 0x056a
+        name: 'Bamboo Ink'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x211
+        vid: 0x056a
+        name: 'Dell Active Pen - PN7320A'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x219
+        vid: 0x056a
+        name: 'Lenovo Digital Pen 2'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x221
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x231
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x271
+        vid: 0x056a
+        name: 'Bamboo Ink'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x421
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x431
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x621
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x631
+        vid: 0x056a
+        name: 'Dell Active Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x8051
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 0
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x805b
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x806b
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x807b
+        vid: 0x056a
+        name: 'Bamboo Ink Plus'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x80a3
+        vid: 0x056a
+        name: 'Lenovo Slim Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x8113
+        vid: 0x056a
+        name: 'Lenovo Yoga Pen (0x8113)'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 2
+        erasers: []
+      - id: 0x8113
+        vid: 0x056a
+        name: 'Lenovo Yoga Pen (0x8113)'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 2
+        erasers: []
+      - id: 0x826b
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x846b
+        vid: 0x056a
+        name: 'AES Pen'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x865b
+        vid: 0x056a
+        name: 'Lenovo Active Pen 3 (2023)'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'
+      - id: 0x866b
+        vid: 0x056a
+        name: 'Lenovo Precision Pen 2 (2023)'
+        type: 'mobile'
+        axes: ['x', 'y' , 'tilt', 'pressure']
+        buttons: 1
+        is_eraser: 'true'
+        eraser_type: 'button'

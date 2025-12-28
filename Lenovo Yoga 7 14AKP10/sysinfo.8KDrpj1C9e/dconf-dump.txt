@@ -1,0 +1,18 @@
+==== /org/gnome/desktop/peripherals/ ====
+[stylus/80220a26]
+button-action='middle'
+eraser-pressure-curve=[0, 0, 100, 100]
+pressure-curve=[0, 0, 100, 100]
+secondary-button-action='right'
+
+[tablets/056a:53fd]
+area=[0.0025077313184738159, -0.005594104528427124, 0.0012345761060714722, 0.0012346059083938599]
+
+[touchpad]
+click-method='areas'
+two-finger-scrolling-enabled=true
+==== /org/gnome/settings-daemon/peripherals/ ====
+==== /org/cinnamon/desktop/peripherals/ ====
+==== /org/cinnamon/settings-daemon/peripherals/ ====
+==== /org/mate/desktop/peripherals/ ====
+==== /org/mate/settings-daemon/peripherals/ ====
